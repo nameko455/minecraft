@@ -1,3 +1,3 @@
 # minecraft
 #Usage
-curl https://nameko.github.io/minecraft/setup.sh | sh
+curl https://nameko455.github.io/minecraft/setup.sh | sh
