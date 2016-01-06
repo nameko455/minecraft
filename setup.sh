@@ -1,5 +1,4 @@
 #!/bin/sh
-sudo apt-get install curl -y
 sudo apt-get install openjdk-7-jre -y
 mkdir minecra
 cd minecra
